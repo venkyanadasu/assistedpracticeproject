@@ -13,7 +13,7 @@ class write {
 
        // Writes the program to file
        output.write(program);
-       System.out.println("Data is written to the file.");
+       System.out.println("New Java File is Created.");
 
        // Closes the writer
        output.close();
